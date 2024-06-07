@@ -1,38 +1,47 @@
 [
    {
       "name":"CVSH",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://centralvalleyspecialty.com/"
    },
    {
       "name":"CMC",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://colusamedcenter.com/"
    },
    {
       "name":"CRMC",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://crmcmed.org/"
    },
    {
       "name":"GMC",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://gmcmed.org/"
    },
    {
       "name":"SSH",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://sonomaspecialtyhospital.org/"
    },
    {
       "name":"OH",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":""
    },
    {
       "name":"KFH-M",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://kentfieldhospital.org/"
    },
    {
       "name":"KFH-SF",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://kentfieldsanfrancisco.org/"
    },
    {
       "name":"ARH",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png"
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://amarillorehab.org/"
    }
 ]
