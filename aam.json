@@ -48,5 +48,20 @@
       "name":"Phoenix Specialty Hospital",
       "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
       "url":"https://phoenixsh.org/"
+   },
+   {
+      "name":"Salt Lake Specialty Hospital",
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://slspecialty.org/"
+   },
+   {
+      "name":"Baton Rouge Specialty Hospital",
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://brspecialty.org/"
+   },
+   {
+      "name":"Amarillo Specialty Hospital",
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://amspecialty.org/"
    }
 ]
