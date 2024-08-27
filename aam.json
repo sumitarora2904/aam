@@ -1,12 +1,17 @@
 [
    {
+      "name":"American Advanced Management",
+      "logo":"https://americanam.org/wp-content/uploads/2023/07/AAMI-1-300x48-1.webp",
+      "url":"https://americanam.org/"
+   },
+   {
       "name":"Central Valley Specialty Hospital",
       "logo":"https://centralvalleyspecialty.com/wp-content/themes/medilink/assets/img/logo-dark.png",
       "url":"https://centralvalleyspecialty.com/"
    },
    {
       "name":"Madera Community Hospital(Coming Soon)",
-      "logo":"https://www.maderahospital.org/images/assets/logo.png",
+      "logo":"https://americanam.org/wp-content/uploads/2024/06/Madera-Placeholder-500x400-1.jpg",
       "url":"https://www.maderahospital.org/"
    },
    {
@@ -41,17 +46,17 @@
    },
    {
       "name":"Kentfield Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://americanam.org/wp-content/uploads/2023/11/Kentfield-Placeholder-500x400-1.jpg",
       "url":"https://kentfieldhospital.org/"
    },
    {
       "name":"Kentfield Hospital – San Francisco",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://americanam.org/wp-content/uploads/2023/11/Kentfield-Placeholder-500x400-1.jpg",
       "url":"https://kentfieldsanfrancisco.org/"
    },
    {
       "name":"Amarillo Rehab Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://americanam.org/wp-content/uploads/2024/06/Amarillo-Rehab-Placeholder-500x400-1.jpg",
       "url":"https://amarillorehab.org/"
    },
    {
@@ -73,5 +78,10 @@
       "name":"Amarillo Specialty Hospital",
       "logo":"https://amspecialty.org/wp-content/uploads/2024/08/Amarillo-Specialty-Hospital-1024x222.png",
       "url":"https://amspecialty.org/"
+   },
+   {
+      "name":"Frontline Health Staffing",
+      "logo":"https://frontlinehs.org/wp-content/uploads/2023/05/image001.png",
+      "url":"https://frontlinehs.org/"
    }
 ]
