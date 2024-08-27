@@ -1,27 +1,27 @@
 [
    {
       "name":"Central Valley Specialty Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://centralvalleyspecialty.com/wp-content/themes/medilink/assets/img/logo-dark.png",
       "url":"https://centralvalleyspecialty.com/"
    },
    {
-      "name":"Madera Community Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "name":"Madera Community Hospital(Coming Soon)",
+      "logo":"https://www.maderahospital.org/images/assets/logo.png",
       "url":"https://www.maderahospital.org/"
    },
    {
       "name":"Colusa Medical Center",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://colusamedcenter.com/wp-content/uploads/2020/08/logo.png",
       "url":"https://colusamedcenter.com/"
    },
    {
       "name":"Coalinga Regional Medical Center",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://crmcmed.org/wp-content/uploads/2020/01/coaling-logo.png.webp",
       "url":"https://crmcmed.org/"
    },
    {
       "name":"Glenn Medical Center",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"http://gmcmed.org/wp-content/uploads/2019/08/Logo-300x78.jpeg",
       "url":"https://gmcmed.org/"
    },
    {
@@ -31,12 +31,12 @@
    },
    {
       "name":"Orchard Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://orchardhospital.com/images/dev_layout/logo2015.png",
       "url":"https://www.orchardhospital.com/"
    },
    {
       "name":"Orchard Hospital (Redesign)",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://orchardhospital.com/images/dev_layout/logo2015.png",
       "url":"https://test.orchardhospital.com/"
    },
    {
@@ -56,22 +56,22 @@
    },
    {
       "name":"Phoenix Specialty Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://phoenixsh.org/wp-content/uploads/2024/06/Phoenix-Specialty-Hospital-250x54.png",
       "url":"https://phoenixsh.org/"
    },
    {
       "name":"Salt Lake Specialty Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://slspecialty.org/wp-content/uploads/2024/07/Salt-Lake-Specialty-Hospital-1024x222.png",
       "url":"https://slspecialty.org/"
    },
    {
       "name":"Baton Rouge Specialty Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://brspecialty.org/wp-content/uploads/2024/08/Baton-Rouge-Specialty-Hospital-1024x222.png",
       "url":"https://brspecialty.org/"
    },
    {
       "name":"Amarillo Specialty Hospital",
-      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "logo":"https://amspecialty.org/wp-content/uploads/2024/08/Amarillo-Specialty-Hospital-1024x222.png",
       "url":"https://amspecialty.org/"
    }
 ]
