@@ -5,6 +5,11 @@
       "url":"https://centralvalleyspecialty.com/"
    },
    {
+      "name":"Madera Community Hospital",
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://www.maderahospital.org/"
+   },
+   {
       "name":"Colusa Medical Center",
       "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
       "url":"https://colusamedcenter.com/"
@@ -27,7 +32,12 @@
    {
       "name":"Orchard Hospital",
       "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
-      "url":""
+      "url":"https://www.orchardhospital.com/"
+   },
+   {
+      "name":"Orchard Hospital (Redesign)",
+      "logo":"https://kentfieldhospital.org/wp-content/uploads/2023/11/logo-dark.png",
+      "url":"https://test.orchardhospital.com/"
    },
    {
       "name":"Kentfield Hospital",
